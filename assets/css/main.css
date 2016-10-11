@@ -795,7 +795,7 @@ body {
 /* Basic */
 
 body {
-    background-color: #312450;
+    background-color: black;
     background-repeat: repeat, no-repeat;
     background-size: auto, 100% 100%;
     font-family: 'Source Sans Pro', sans-serif;
@@ -1137,7 +1137,7 @@ ol.default li {
 #nav a {
     position: relative;
     display: inline-block;
-    color: #ffffff;
+    color: yellow;
     width: 1em;
     height: 1em;
     line-height: 0.9em;
@@ -1307,7 +1307,7 @@ ol.default li {
     #nav a {
         font-size: 2.5em;
         margin: 0 0.25em 0 0.25em;
-        opacity: 0.35;
+        opacity: 0.55;
         outline: 0;
         -moz-transition: opacity .25s ease-in-out;
         -webkit-transition: opacity .25s ease-in-out;
