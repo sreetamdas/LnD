@@ -1377,6 +1377,7 @@ ol.default li {
     #main {
         overflow-x: hidden;
         width: 100%;
+        height: 100%;
         background: #ffffff;
         box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25);
         /*                Remove scroll bar here*/
@@ -1384,14 +1385,14 @@ ol.default li {
     }
     .panel {
         position: absolute;
-        top: 0;
+        top: 0%;
         left: 0;
         width: 100%;
     }
     /* Me */
     .me {
         padding: 0;
-        height: 23em;
+        height: 800px;
     }
     .me .pic {
         display: block;
@@ -1599,4 +1600,8 @@ ol.default li {
 
 .text-center {
     text-align: center;
+}
+
+.yellow {
+    color: yellow;
 }
