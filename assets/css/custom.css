@@ -286,3 +286,11 @@ fieldset[disabled] .checkbox, fieldset[disabled] .checkbox input[type=checkbox],
     opacity: 0;
   }
 }
+
+.grey {
+    color: grey !important;
+}
+
+.smoke {
+    color: beige !important;
+}
